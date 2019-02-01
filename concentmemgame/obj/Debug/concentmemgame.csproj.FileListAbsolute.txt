@@ -1,0 +1,10 @@
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.csprojAssemblyReference.cache
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.Form1.resources
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.Properties.Resources.resources
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.csproj.GenerateResource.cache
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.csproj.CoreCompileInputs.cache
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\bin\Debug\concentmemgame.exe.config
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\bin\Debug\concentmemgame.exe
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\bin\Debug\concentmemgame.pdb
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.exe
+E:\Windows\12-21\Coding\concentmemgame\concentmemgame\obj\Debug\concentmemgame.pdb
